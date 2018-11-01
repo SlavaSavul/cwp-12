@@ -1,0 +1,7 @@
+{
+    "db" : "turtles",
+    "login" : "root",
+    "password" : "2775937",
+    "host" : "localhost",
+    "dialect" : "mysql"
+  }
